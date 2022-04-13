@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculator_app">Calculator App</string>
+    <string name="code_by_n_gulshan">Code By</string>
+    <string name="gulshan">Gulshan</string>
+    <string name="input">input</string>
+
+</resources>
